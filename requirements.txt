@@ -1,4 +1,4 @@
 streamlit
 sklearn
 numpy
-pandas==1.2.4
+pandas
